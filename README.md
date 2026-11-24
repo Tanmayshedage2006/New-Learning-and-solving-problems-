@@ -1,2 +1,2 @@
 # New-Learning
-“A collection of thoughts, work, and memories.”
+“A collection of thoughts, work, and memories.
